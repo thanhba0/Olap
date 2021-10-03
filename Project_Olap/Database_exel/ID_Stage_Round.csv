@@ -1,0 +1,189 @@
+ID_Stage_Round,Stage,RoundID
+1,Group 1,201
+2,Group 4,201
+3,Group 2,201
+4,Group 3,201
+5,Semi-finals,202
+6,Final,405
+7,Preliminary round,204
+8,Quarter-finals,418
+9,Semi-finals,3492
+10,Match for third place,3491
+11,Final,3490
+12,First round,206
+13,Quarter-finals,429
+14,Semi-finals,3489
+15,Match for third place,3488
+16,Final,3487
+17,Group 1,208
+18,Group 2,208
+19,Group 3,208
+20,Group 4,208
+21,Group 6,209
+22,Group 3,211
+23,Group 1,211
+24,Group 2,211
+25,Group 4,211
+26,Quarter-finals,212
+27,Semi-finals,462
+28,Match for third place,3485
+29,Final,3484
+30,Group 3,220
+31,Group 4,220
+32,Group 1,220
+33,Group 2,220
+34,Quarter-finals,221
+35,Semi-finals,488
+36,Match for third place,3483
+37,Final,3482
+38,Group 1,231
+39,Group 3,231
+40,Group 4,231
+41,Group 2,231
+42,Quarter-finals,232
+43,Semi-finals,514
+44,Match for third place,3481
+45,Final,3480
+46,Group 1,238
+47,Group 2,238
+48,Group 3,238
+49,Group 4,238
+50,Quarter-finals,239
+51,Semi-finals,536
+52,Match for third place,3479
+53,Final,3478
+54,Group 1,250
+55,Group 2,250
+56,Group 4,250
+57,Group 3,250
+58,Quarter-finals,251
+59,Semi-finals,569
+60,Match for third place,3477
+61,Final,3476
+62,Group 2,262
+63,Group 1,262
+64,Group 3,262
+65,Group 4,262
+66,Group B,263
+67,Group A,263
+68,Match for third place,264
+69,Final,605
+70,Group 2,278
+71,Group 1,278
+72,Group 3,278
+73,Group 4,278
+74,Group A,279
+75,Group B,279
+76,Match for third place,280
+77,Final,639
+78,Group 3,293
+79,Group 1,293
+80,Group 6,293
+81,Group 2,293
+82,Group 4,293
+83,Group 5,293
+84,Group 4,294
+85,Group 1,294
+86,Group 3,294
+87,Group 2,294
+88,Semi-finals,295
+89,Match for third place,676
+90,Final,3475
+91,Group A,308
+92,Group C,308
+93,Group D,308
+94,Group F,308
+95,Group B,308
+96,Group E,308
+97,Round of 16,309
+98,Quarter-finals,714
+99,Semi-finals,3469
+100,Match for third place,3468
+101,Final,3467
+102,Group B,322
+103,Group D,322
+104,Group A,322
+105,Group C,322
+106,Group F,322
+107,Group E,322
+108,Round of 16,323
+109,Quarter-finals,751
+110,Semi-finals,3464
+111,Match for third place,3463
+112,Final,3462
+113,Group C,337
+114,Group A,337
+115,Group E,337
+116,Group F,337
+117,Group B,337
+118,Group D,337
+119,Round of 16,338
+120,Quarter-finals,796
+121,Semi-finals,3461
+122,Match for third place,3460
+123,Final,3459
+124,Group A,1014
+125,Group B,1014
+126,Group D,1014
+127,Group C,1014
+128,Group E,1014
+129,Group H,1014
+130,Group F,1014
+131,Group G,1014
+132,Round of 16,1024
+133,Quarter-finals,1025
+134,Semi-finals,1026
+135,Match for third place,1028
+136,Final,1027
+137,Group A,43950100
+138,Group E,43950100
+139,Group F,43950100
+140,Group B,43950100
+141,Group C,43950100
+142,Group G,43950100
+143,Group H,43950100
+144,Group D,43950100
+145,Round of 16,43950200
+146,Quarter-finals,43950300
+147,Semi-finals,43950400
+148,Third place,43950500
+149,Final,43950600
+150,Group A,97410100
+151,Group B,97410100
+152,Group C,97410100
+153,Group D,97410100
+154,Group F,97410100
+155,Group E,97410100
+156,Group G,97410100
+157,Group H,97410100
+158,Round of 16,97410200
+159,Quarter-finals,97410300
+160,Semi-finals,97410400
+161,Third place,97410500
+162,Final,97410600
+163,Group A,249722
+164,Group B,249722
+165,Group C,249722
+166,Group D,249722
+167,Group E,249722
+168,Group F,249722
+169,Group G,249722
+170,Group H,249722
+171,Round of 16,249717
+172,Quarter-finals,249718
+173,Semi-finals,249719
+174,Match for third place,249720
+175,Final,249721
+176,Group A,255931
+177,Group B,255931
+178,Group C,255931
+179,Group D,255931
+180,Group E,255931
+181,Group F,255931
+182,Group G,255931
+183,Group H,255931
+184,Round of 16,255951
+185,Quarter-finals,255953
+186,Semi-finals,255955
+187,Play-off for third place,255957
+188,Final,255959

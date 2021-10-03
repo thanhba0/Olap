@@ -1,0 +1,10 @@
+-Thống kê số lượng trận đấu theo từng năm
+-Thống kê số lượng trận đấu theo diễn ra tại sân CamNou theo thời gian bắt đầu trận đấu theo năm 2006
+-Thống kê 5 trong tài có số lượng trận đấu nhiều nhất trong năm 2014
+-số lượng trận có lượng khán giả theo từng sân vận động trong năm đầu tiên diễn ra World Cup
+-Thống kê số trận thắng phải giải quyết sau hiệp chính của từng đồi theo từng năm
+-THống kê số trận của các vòng theo từng thành phố
+-Thống kê số lượng trận đấu brazil được mặc áo sân nhà theo từng năm
+-Thống kê các trận có  tỉ số có thể có theo từng trận đấu
+-THống kê số trận của từng trọng tài vào năm 2014 theo từng vòng
+-Thống kê các trận kết thúc với tỉ số 0-0 theo từng năm

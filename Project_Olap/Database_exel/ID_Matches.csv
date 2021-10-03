@@ -1,0 +1,837 @@
+ID_Matches,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,Win conditions,Attendance,Half-time Home Goals,Half-time Away Goals
+1,France,4,1,Mexico, ,4444,3,0
+2,USA,3,0,Belgium, ,18346,2,0
+3,Yugoslavia,2,1,Brazil, ,24059,2,0
+4,Romania,3,1,Peru, ,2549,1,0
+5,Argentina,1,0,France, ,23409,0,0
+6,Chile,3,0,Mexico, ,9249,1,0
+7,Yugoslavia,4,0,Bolivia, ,18306,0,0
+8,USA,3,0,Paraguay, ,18306,2,0
+9,Uruguay,1,0,Peru, ,57735,0,0
+10,Chile,1,0,France, ,2000,0,0
+11,Argentina,6,3,Mexico, ,42100,3,1
+12,Brazil,4,0,Bolivia, ,25466,1,0
+13,Paraguay,1,0,Belgium, ,12000,1,0
+14,Uruguay,4,0,Romania, ,70022,4,0
+15,Argentina,3,1,Chile, ,41459,2,1
+16,Argentina,6,1,USA, ,72886,1,0
+17,Uruguay,6,1,Yugoslavia, ,79867,3,1
+18,Uruguay,4,2,Argentina, ,68346,1,2
+19,Austria,3,2,France,Austria win after extra time ,16000,0,0
+20,Hungary,4,2,Egypt, ,9000,2,2
+21,Switzerland,3,2,Netherlands, ,33000,2,1
+22,Sweden,3,2,Argentina, ,14000,1,1
+23,Germany,5,2,Belgium, ,8000,1,2
+24,Spain,3,1,Brazil, ,21000,3,0
+25,Italy,7,1,USA, ,25000,3,0
+26,Czechoslovakia,2,1,Romania, ,9000,0,1
+27,Czechoslovakia,3,2,Switzerland, ,12000,1,1
+28,Germany,2,1,Sweden, ,3000,0,0
+29,Italy,1,1,Spain, ,35000,0,0
+30,Austria,2,1,Hungary, ,23000,1,0
+31,Italy,1,0,Spain, ,43000,1,0
+32,Italy,1,0,Austria, ,35000,1,0
+33,Czechoslovakia,3,1,Germany, ,15000,1,0
+34,Germany,3,2,Austria, ,7000,3,1
+35,Italy,2,1,Czechoslovakia,Italy win after extra time ,55000,0,0
+36,Switzerland,1,1,Germany, ,27152,0,0
+37,Hungary,6,0,Dutch East Indies, ,9000,4,0
+38,France,3,1,Belgium, ,30454,2,1
+39,Cuba,3,3,Romania, ,7000,0,0
+40,Italy,2,1,Norway,Italy win after extra time ,19000,0,0
+41,Brazil,6,5,Poland,Brazil win after extra time ,13452,0,0
+42,Czechoslovakia,3,0,Netherlands,Czechoslovakia win after extra time ,11000,0,0
+43,Cuba,2,1,Romania, ,8000,0,1
+44,Switzerland,4,2,Germany, ,20025,1,2
+45,Brazil,1,1,Czechoslovakia, ,22021,0,0
+46,Hungary,2,0,Switzerland, ,15000,1,0
+47,Sweden,8,0,Cuba, ,7000,4,0
+48,Italy,3,1,France, ,58455,1,1
+49,Brazil,2,1,Czechoslovakia, ,18141,0,1
+50,Hungary,5,1,Sweden, ,20000,3,1
+51,Italy,2,1,Brazil, ,33000,0,0
+52,Brazil,4,2,Sweden, ,12000,1,2
+53,Italy,4,2,Hungary, ,45000,3,1
+54,Brazil,4,0,Mexico, ,81649,1,0
+55,England,2,0,Chile, ,29703,1,0
+56,Spain,3,1,USA, ,9511,0,1
+57,Sweden,3,2,Italy, ,36502,2,1
+58,Yugoslavia,3,0,Switzerland, ,7336,0,0
+59,Brazil,2,2,Switzerland, ,42032,2,1
+60,Yugoslavia,4,1,Mexico, ,11078,2,0
+61,Spain,2,0,Chile, ,19790,2,0
+62,Sweden,2,2,Paraguay, ,7903,2,1
+63,USA,1,0,England, ,10151,1,0
+64,Brazil,2,0,Yugoslavia, ,142429,1,0
+65,Spain,1,0,England, ,74462,0,0
+66,Italy,2,0,Paraguay, ,25811,1,0
+67,Uruguay,8,0,Bolivia, ,5284,4,0
+68,Switzerland,2,1,Mexico, ,3580,2,0
+69,Chile,5,2,USA, ,8501,2,0
+70,Uruguay,2,2,Spain, ,44802,1,2
+71,Brazil,7,1,Sweden, ,138886,3,0
+72,Brazil,6,1,Spain, ,152772,3,0
+73,Uruguay,3,2,Sweden, ,7987,1,2
+74,Sweden,3,1,Spain, ,11227,2,0
+75,Uruguay,2,1,Brazil, ,173850,0,0
+76,Uruguay,2,0,Czechoslovakia, ,20500,0,0
+77,Austria,1,0,Scotland, ,25000,1,0
+78,Brazil,5,0,Mexico, ,13470,4,0
+79,Yugoslavia,1,0,France, ,16000,1,0
+80,Germany FR,4,1,Turkey, ,28000,1,1
+81,Hungary,9,0,Korea Republic, ,13000,4,0
+82,England,4,4,Belgium, ,14000,0,0
+83,Switzerland,2,1,Italy, ,43000,1,1
+84,Uruguay,7,0,Scotland, ,34000,2,0
+85,Austria,5,0,Czechoslovakia, ,26000,4,0
+86,France,3,2,Mexico, ,19000,1,0
+87,Brazil,1,1,Yugoslavia, ,24637,0,0
+88,Hungary,8,3,Germany FR, ,56000,3,1
+89,Turkey,7,0,Korea Republic, ,4000,4,0
+90,England,2,0,Switzerland, ,43500,1,0
+91,Italy,4,1,Belgium, ,24000,1,0
+92,Germany FR,7,2,Turkey, ,17000,3,1
+93,Switzerland,4,1,Italy, ,30000,1,0
+94,Uruguay,4,2,England, ,28000,2,1
+95,Austria,7,5,Switzerland, ,35000,5,4
+96,Germany FR,2,0,Yugoslavia, ,17000,1,0
+97,Hungary,4,2,Brazil, ,40000,2,1
+98,Germany FR,6,1,Austria, ,58000,1,0
+99,Hungary,4,2,Uruguay,Hungary win after extra time ,45000,0,0
+100,Austria,3,1,Uruguay, ,32000,1,1
+101,Germany FR,3,2,Hungary, ,62500,2,2
+102,Sweden,3,0,Mexico, ,34107,1,0
+103,Soviet Union,2,2,England, ,49348,1,0
+104,Argentina,1,3,Germany FR, ,31156,1,2
+105,Hungary,1,1,Wales, ,15343,1,1
+106,France,7,3,Paraguay, ,16518,2,2
+107,Yugoslavia,1,1,Scotland, ,9591,1,0
+108,Brazil,3,0,Austria, ,17788,1,0
+109,Northern Ireland,1,0,Czechoslovakia, ,10647,1,0
+110,Brazil,0,0,England, ,40895,0,0
+111,Mexico,1,1,Wales, ,15150,0,1
+112,Paraguay,3,2,Scotland, ,11665,2,1
+113,Yugoslavia,3,2,France, ,12217,1,1
+114,Soviet Union,2,0,Austria, ,21239,1,0
+115,Germany FR,2,2,Czechoslovakia, ,25000,0,2
+116,Argentina,3,1,Northern Ireland, ,14174,1,1
+117,Sweden,2,1,Hungary, ,38850,1,0
+118,Sweden,0,0,Wales, ,30287,0,0
+119,Brazil,2,0,Soviet Union, ,50928,1,0
+120,Germany FR,2,2,Northern Ireland, ,21990,1,1
+121,Hungary,4,0,Mexico, ,13300,1,0
+122,Paraguay,3,3,Yugoslavia, ,13103,1,2
+123,France,2,1,Scotland, ,13554,2,0
+124,England,2,2,Austria, ,15872,0,1
+125,Czechoslovakia,6,1,Argentina, ,16418,3,0
+126,Soviet Union,1,0,England, ,23182,0,0
+127,Northern Ireland,2,1,Czechoslovakia,Northern Ireland win after extra time ,6196,0,0
+128,Wales,2,1,Hungary, ,2823,0,1
+129,Brazil,1,0,Wales, ,25923,0,0
+130,Germany FR,1,0,Yugoslavia, ,20055,1,0
+131,Sweden,2,0,Soviet Union, ,31900,0,0
+132,France,4,0,Northern Ireland, ,11800,1,0
+133,Sweden,3,1,Germany FR, ,49471,1,1
+134,Brazil,5,2,France, ,27100,2,1
+135,France,6,3,Germany FR, ,32483,3,1
+136,Brazil,5,2,Sweden, ,49737,2,1
+137,Uruguay,2,1,Colombia, ,7908,0,1
+138,Brazil,2,0,Mexico, ,10484,0,0
+139,Argentina,1,0,Bulgaria, ,7134,1,0
+140,Chile,3,1,Switzerland, ,65006,1,1
+141,Soviet Union,2,0,Yugoslavia, ,9622,0,0
+142,Czechoslovakia,1,0,Spain, ,12700,0,0
+143,Hungary,2,1,England, ,7938,1,0
+144,Germany FR,0,0,Italy, ,65440,0,0
+145,Yugoslavia,3,1,Uruguay, ,8829,2,1
+146,Brazil,0,0,Czechoslovakia, ,14903,0,0
+147,England,3,1,Argentina, ,9794,2,0
+148,Chile,2,0,Italy, ,66057,0,0
+149,Soviet Union,4,4,Colombia, ,8040,3,1
+150,Spain,1,0,Mexico, ,11875,0,0
+151,Hungary,6,1,Bulgaria, ,7442,4,0
+152,Germany FR,2,1,Switzerland, ,64922,1,0
+153,Soviet Union,2,1,Uruguay, ,9973,1,0
+154,Brazil,2,1,Spain, ,18715,0,1
+155,Hungary,0,0,Argentina, ,7945,0,0
+156,Germany FR,2,0,Chile, ,67224,1,0
+157,Yugoslavia,5,0,Colombia, ,7167,2,0
+158,Mexico,3,1,Czechoslovakia, ,10648,2,1
+159,England,0,0,Bulgaria, ,5700,0,0
+160,Italy,3,0,Switzerland, ,59828,1,0
+161,Chile,2,1,Soviet Union, ,17268,2,1
+162,Brazil,3,1,England, ,17736,1,1
+163,Czechoslovakia,1,0,Hungary, ,11690,1,0
+164,Yugoslavia,1,0,Germany FR, ,63324,0,0
+165,Czechoslovakia,3,1,Yugoslavia, ,5890,0,0
+166,Brazil,4,2,Chile, ,76594,2,1
+167,Chile,1,0,Yugoslavia, ,66697,0,0
+168,Brazil,3,1,Czechoslovakia, ,68679,1,1
+169,England,0,0,Uruguay, ,87148,0,0
+170,Germany FR,5,0,Switzerland, ,36127,3,0
+171,Brazil,2,0,Bulgaria, ,47308,1,0
+172,Soviet Union,3,0,Korea DPR, ,23006,2,0
+173,France,1,1,Mexico, ,69237,0,0
+174,Portugal,3,1,Hungary, ,29886,1,0
+175,Argentina,2,1,Spain, ,42738,0,0
+176,Italy,2,0,Chile, ,27199,1,0
+177,Uruguay,2,1,France, ,45662,2,1
+178,Spain,2,1,Switzerland, ,32028,0,1
+179,Hungary,3,1,Brazil, ,51387,1,1
+180,Korea DPR,1,1,Chile, ,13792,0,1
+181,Portugal,3,0,Bulgaria, ,25438,2,0
+182,Germany FR,0,0,Argentina, ,46587,0,0
+183,Soviet Union,1,0,Italy, ,27793,0,0
+184,England,2,0,Mexico, ,92570,1,0
+185,Uruguay,0,0,Mexico, ,61112,0,0
+186,Argentina,2,0,Switzerland, ,32127,0,0
+187,Portugal,3,1,Brazil, ,58479,2,0
+188,Korea DPR,1,0,Italy, ,17829,1,0
+189,England,2,0,France, ,98270,1,0
+190,Hungary,3,1,Bulgaria, ,24129,2,1
+191,Germany FR,2,1,Spain, ,42187,1,1
+192,Soviet Union,2,1,Chile, ,16027,1,1
+193,England,1,0,Argentina, ,90584,0,0
+194,Germany FR,4,0,Uruguay, ,40007,1,0
+195,Soviet Union,2,1,Hungary, ,26844,1,0
+196,Portugal,5,3,Korea DPR, ,40248,2,3
+197,Germany FR,2,1,Soviet Union, ,38273,1,0
+198,England,2,1,Portugal, ,94493,1,0
+199,Portugal,2,1,Soviet Union, ,87696,1,1
+200,England,4,2,Germany FR,England win after extra time ,96924,0,0
+201,Mexico,0,0,Soviet Union, ,107160,0,0
+202,Uruguay,2,0,Israel, ,20654,1,0
+203,Peru,3,2,Bulgaria, ,13765,0,1
+204,England,1,0,Romania, ,50560,0,0
+205,Italy,1,0,Sweden, ,13433,1,0
+206,Germany FR,2,1,Morocco, ,12942,0,1
+207,Brazil,4,1,Czechoslovakia, ,52897,1,1
+208,Belgium,3,0,El Salvador, ,92205,1,0
+209,Uruguay,0,0,Italy, ,29968,0,0
+210,Peru,3,0,Morocco, ,13537,0,0
+211,Romania,2,1,Czechoslovakia, ,56818,0,1
+212,Soviet Union,4,1,Belgium, ,95261,1,0
+213,Sweden,1,1,Israel, ,9624,0,0
+214,Germany FR,5,2,Bulgaria, ,12710,2,1
+215,Brazil,1,0,England, ,66843,0,0
+216,Mexico,4,0,El Salvador, ,103058,1,0
+217,Sweden,1,0,Uruguay, ,18163,0,0
+218,Germany FR,3,1,Peru, ,17875,3,1
+219,Brazil,3,2,Romania, ,50804,2,1
+220,Soviet Union,2,0,El Salvador, ,89979,0,0
+221,Italy,0,0,Israel, ,9890,0,0
+222,Bulgaria,1,1,Morocco, ,12299,1,0
+223,England,1,0,Czechoslovakia, ,49292,0,0
+224,Mexico,1,0,Belgium, ,108192,1,0
+225,Italy,4,1,Mexico, ,26851,1,1
+226,Germany FR,3,2,England,Germany FR win after extra time ,23357,0,0
+227,Brazil,4,2,Peru, ,54233,2,1
+228,Uruguay,1,0,Soviet Union,Uruguay win after extra time ,26085,0,0
+229,Brazil,3,1,Uruguay, ,51261,1,1
+230,Italy,4,3,Germany FR,Italy win after extra time ,102444,0,0
+231,Germany FR,1,0,Uruguay, ,104403,1,0
+232,Brazil,4,1,Italy, ,107412,1,1
+233,Brazil,0,0,Yugoslavia, ,62000,0,0
+234,Germany FR,1,0,Chile, ,81100,1,0
+235,German DR,2,0,Australia, ,17000,0,0
+236,Zaire,0,2,Scotland, ,27000,0,2
+237,Uruguay,0,2,Netherlands, ,55100,0,1
+238,Sweden,0,0,Bulgaria, ,23800,0,0
+239,Italy,3,1,Haiti, ,53000,0,0
+240,Poland,3,2,Argentina, ,32700,2,0
+241,Australia,0,3,Germany FR, ,53300,0,2
+242,Scotland,0,0,Brazil, ,62000,0,0
+243,Chile,1,1,German DR, ,28300,0,0
+244,Yugoslavia,9,0,Zaire, ,31700,6,0
+245,Netherlands,0,0,Sweden, ,53700,0,0
+246,Bulgaria,1,1,Uruguay, ,13400,0,0
+247,Haiti,0,7,Poland, ,25300,0,5
+248,Argentina,1,1,Italy, ,70100,1,1
+249,Scotland,1,1,Yugoslavia, ,56000,0,0
+250,Australia,0,0,Chile, ,17400,0,0
+251,Zaire,0,3,Brazil, ,36200,0,1
+252,German DR,1,0,Germany FR, ,60200,0,0
+253,Bulgaria,1,4,Netherlands, ,53300,0,2
+254,Argentina,4,1,Haiti, ,25900,2,0
+255,Sweden,3,0,Uruguay, ,28300,0,0
+256,Poland,2,1,Italy, ,70100,2,0
+257,Yugoslavia,0,2,Germany FR, ,67385,0,1
+258,Brazil,1,0,German DR, ,59863,0,0
+259,Netherlands,4,0,Argentina, ,56548,2,0
+260,Sweden,0,1,Poland, ,44955,0,1
+261,Argentina,1,2,Brazil, ,39400,1,1
+262,Poland,2,1,Yugoslavia, ,58000,1,1
+263,German DR,0,2,Netherlands, ,68348,0,1
+264,Germany FR,4,2,Sweden, ,67800,0,1
+265,Poland,0,1,Germany FR, ,62000,0,0
+266,Netherlands,2,0,Brazil, ,53700,0,0
+267,Argentina,1,1,German DR, ,54254,1,1
+268,Sweden,2,1,Yugoslavia, ,41300,1,1
+269,Brazil,0,1,Poland, ,77100,0,0
+270,Netherlands,1,2,Germany FR, ,78200,1,2
+271,Germany FR,0,0,Poland, ,67579,0,0
+272,Italy,2,1,France, ,42373,1,1
+273,Tunisia,3,1,Mexico, ,17396,0,1
+274,Argentina,2,1,Hungary, ,71615,1,1
+275,Sweden,1,1,Brazil, ,32569,1,1
+276,Austria,2,1,Spain, ,40841,1,1
+277,Peru,3,1,Scotland, ,37927,1,1
+278,Netherlands,3,0,IR Iran, ,33431,1,0
+279,Italy,3,1,Hungary, ,26533,2,0
+280,Poland,1,0,Tunisia, ,9624,1,0
+281,Germany FR,6,0,Mexico, ,35258,4,0
+282,Argentina,2,1,France, ,71666,1,0
+283,Brazil,0,0,Spain, ,34771,0,0
+284,Austria,1,0,Sweden, ,41424,1,0
+285,Scotland,1,1,IR Iran, ,7938,1,0
+286,Netherlands,0,0,Peru, ,28125,0,0
+287,France,3,1,Hungary, ,23127,3,1
+288,Poland,3,1,Mexico, ,22651,1,0
+289,Germany FR,0,0,Tunisia, ,30667,0,0
+290,Italy,1,0,Argentina, ,71712,0,0
+291,Brazil,1,0,Austria, ,35221,1,0
+292,Spain,1,0,Sweden, ,42132,0,0
+293,Peru,4,1,Iran, ,21262,3,1
+294,Scotland,3,2,Netherlands, ,35130,1,1
+295,Germany FR,0,0,Italy, ,67547,0,0
+296,Netherlands,5,1,Austria, ,25050,3,0
+297,Brazil,3,0,Peru, ,31278,2,0
+298,Argentina,2,0,Poland, ,37091,1,0
+299,Poland,1,0,Peru, ,35288,0,0
+300,Italy,1,0,Austria, ,66695,1,0
+301,Germany FR,2,2,Netherlands, ,40750,1,1
+302,Argentina,0,0,Brazil, ,37326,0,0
+303,Netherlands,2,1,Italy, ,67433,0,1
+304,Austria,3,2,Germany FR, ,38318,0,1
+305,Brazil,3,1,Poland, ,39586,1,1
+306,Argentina,6,0,Peru, ,37315,2,0
+307,Brazil,2,1,Italy, ,69659,0,1
+308,Argentina,3,1,Netherlands,Argentina win after extra time ,71483,0,0
+309,Argentina,0,1,Belgium, ,95000,0,0
+310,Italy,0,0,Poland, ,33000,0,0
+311,Brazil,2,1,Soviet Union, ,68000,0,1
+312,Peru,0,0,Cameroon, ,11000,0,0
+313,Hungary,10,1,El Salvador, ,23000,3,0
+314,Scotland,5,2,New Zealand, ,36000,3,0
+315,Germany FR,1,2,Algeria, ,42000,0,0
+316,England,3,1,France, ,44172,1,1
+317,Spain,1,1,Honduras, ,49562,0,1
+318,Chile,0,1,Austria, ,22500,0,1
+319,Czechoslovakia,1,1,Kuwait, ,25000,1,0
+320,Yugoslavia,0,0,Northern Ireland, ,25000,0,0
+321,Italy,1,1,Peru, ,25000,1,0
+322,Argentina,4,1,Hungary, ,32093,2,0
+323,Brazil,4,1,Scotland, ,47379,1,1
+324,Poland,0,0,Cameroon, ,19000,0,0
+325,Belgium,1,0,El Salvador, ,15000,1,0
+326,Soviet Union,3,0,New Zealand, ,19000,1,0
+327,Germany FR,4,1,Chile, ,42000,1,0
+328,England,2,0,Czechoslovakia, ,41123,0,0
+329,Spain,2,1,Yugoslavia, ,48000,1,1
+330,Algeria,0,2,Austria, ,22000,0,0
+331,France,4,1,Kuwait, ,30043,2,0
+332,Honduras,1,1,Northern Ireland, ,15000,0,1
+333,Poland,5,1,Peru, ,25000,0,0
+334,Belgium,1,1,Hungary, ,37000,0,1
+335,Soviet Union,2,2,Scotland, ,45000,0,1
+336,Italy,1,1,Cameroon, ,20000,0,0
+337,Argentina,2,0,El Salvador, ,32500,1,0
+338,Brazil,4,0,New Zealand, ,43000,2,0
+339,Algeria,3,2,Chile, ,16000,3,0
+340,France,1,1,Czechoslovakia, ,28000,0,0
+341,Honduras,0,1,Yugoslavia, ,25000,0,0
+342,Germany FR,1,0,Austria, ,41000,1,0
+343,England,1,0,Kuwait, ,39700,1,0
+344,Northern Ireland,1,0,Spain, ,49562,0,0
+345,Austria,0,1,France, ,37000,0,1
+346,Poland,3,0,Belgium, ,65000,2,0
+347,Italy,2,1,Argentina, ,43000,0,0
+348,Germany FR,0,0,England, ,75000,0,0
+349,Austria,2,2,Northern Ireland, ,20000,0,1
+350,Belgium,0,1,Soviet Union, ,45000,0,0
+351,Argentina,1,3,Brazil, ,44000,0,1
+352,Germany FR,2,1,Spain, ,90089,0,0
+353,France,4,1,Northern Ireland, ,37000,1,0
+354,Poland,0,0,Soviet Union, ,65000,0,0
+355,Italy,3,2,Brazil, ,44000,2,1
+356,Spain,0,0,England, ,75000,0,0
+357,Poland,0,2,Italy, ,50000,0,1
+358,Germany FR,3,3,France, win on penalties (5 - 4) ,70000,0,0
+359,Poland,3,2,France, ,28000,2,1
+360,Italy,3,1,Germany FR, ,90000,0,0
+361,Bulgaria,1,1,Italy, ,96000,0,1
+362,Canada,0,1,France, ,65500,0,0
+363,Spain,0,1,Brazil, ,35748,0,0
+364,Soviet Union,6,0,Hungary, ,16500,3,0
+365,Argentina,3,1,Korea Republic, ,60000,2,0
+366,Morocco,0,0,Poland, ,19900,0,0
+367,Algeria,1,1,Northern Ireland, ,22000,0,1
+368,Belgium,1,2,Mexico, ,110000,1,2
+369,Portugal,1,0,England, ,23000,0,0
+370,Paraguay,1,0,Iraq, ,24000,1,0
+371,Scotland,0,1,Denmark, ,18000,0,0
+372,Uruguay,1,1,Germany FR, ,30500,1,0
+373,Italy,1,1,Argentina, ,32000,1,1
+374,France,1,1,Soviet Union, ,36540,0,0
+375,Korea Republic,1,1,Bulgaria, ,45000,0,1
+376,Hungary,2,0,Canada, ,13800,1,0
+377,Brazil,1,0,Algeria, ,48000,0,0
+378,England,0,0,Morocco, ,20200,0,0
+379,Northern Ireland,1,2,Spain, ,28000,0,2
+380,Mexico,1,1,Paraguay, ,114600,1,0
+381,Poland,1,0,Portugal, ,19915,0,0
+382,Iraq,1,2,Belgium, ,20000,0,2
+383,Denmark,6,1,Uruguay, ,26500,2,1
+384,Germany FR,2,1,Scotland, ,30000,1,1
+385,Hungary,0,3,France, ,31420,0,1
+386,Soviet Union,2,0,Canada, ,14200,0,0
+387,Korea Republic,2,3,Italy, ,20000,0,1
+388,Argentina,2,0,Bulgaria, ,65000,1,0
+389,Paraguay,2,2,Belgium, ,16000,0,1
+390,Iraq,0,1,Mexico, ,103763,0,0
+391,Portugal,1,3,Morocco, ,28000,0,2
+392,England,3,0,Poland, ,22700,3,0
+393,Northern Ireland,0,3,Brazil, ,51000,0,2
+394,Algeria,0,3,Spain, ,23980,0,1
+395,Scotland,0,0,Uruguay, ,20000,0,0
+396,Denmark,2,0,Germany FR, ,36000,1,0
+397,Soviet Union,3,4,Belgium,Belgium win after extra time ,32277,0,0
+398,Mexico,2,0,Bulgaria, ,114580,1,0
+399,Argentina,1,0,Uruguay, ,26000,1,0
+400,Brazil,4,0,Poland, ,45000,1,0
+401,Italy,0,2,France, ,70000,0,1
+402,Morocco,0,1,Germany FR, ,19800,0,0
+403,England,3,0,Paraguay, ,98728,1,0
+404,Denmark,1,5,Spain, ,38500,1,1
+405,Brazil,1,1,France,France win on penalties (3 - 4) ,65000,0,0
+406,Germany FR,0,0,Mexico,Germany FR win on penalties (4 - 1) ,41700,0,0
+407,Spain,1,1,Belgium,Belgium win on penalties (4 - 5) ,45000,0,0
+408,Argentina,2,1,England, ,114580,0,0
+409,France,0,2,Germany FR, ,45000,0,1
+410,Argentina,2,0,Belgium, ,114500,0,0
+411,France,4,2,Belgium,France win after extra time ,21000,0,0
+412,Argentina,3,2,Germany FR, ,114600,1,0
+413,Argentina,0,1,Cameroon, ,73780,0,0
+414,Soviet Union,0,2,Romania, ,42907,0,1
+415,"rn"">United Arab Emirates",0,2,Colombia, ,30791,0,0
+416,Italy,1,0,Austria, ,73303,0,0
+417,USA,1,5,Czechoslovakia, ,33266,0,2
+418,Brazil,2,1,Sweden, ,62628,1,0
+419,Germany FR,4,1,Yugoslavia, ,74765,2,0
+420,Costa Rica,1,0,Scotland, ,30867,0,0
+421,England,1,1,"rn"">Republic of Ireland", ,35238,1,0
+422,Belgium,2,0,Korea Republic, ,32790,0,0
+423,Netherlands,1,1,Egypt, ,33288,0,0
+424,Uruguay,0,0,Spain, ,35713,0,0
+425,Argentina,2,0,Soviet Union, ,55759,1,0
+426,Cameroon,2,1,Romania, ,38687,0,0
+427,Yugoslavia,1,0,Colombia, ,32257,0,0
+428,Italy,1,0,USA, ,73423,1,0
+429,Austria,0,1,Czechoslovakia, ,38962,0,1
+430,Germany FR,5,1,"rn"">United Arab Emirates", ,71169,2,0
+431,Brazil,1,0,Costa Rica, ,58007,1,0
+432,Sweden,1,2,Scotland, ,31823,0,1
+433,England,0,0,Netherlands, ,35267,0,0
+434,"rn"">Republic of Ireland",0,0,Egypt, ,33288,0,0
+435,Korea Republic,1,3,Spain, ,32733,1,1
+436,Belgium,3,1,Uruguay, ,33759,2,0
+437,Argentina,1,1,Romania, ,52733,0,0
+438,Cameroon,0,4,Soviet Union, ,37307,0,2
+439,Germany FR,1,1,Colombia, ,72510,0,0
+440,Yugoslavia,4,1,"rn"">United Arab Emirates", ,27833,2,1
+441,Italy,2,0,Czechoslovakia, ,73303,1,0
+442,Austria,2,1,USA, ,34857,0,0
+443,Brazil,1,0,Scotland, ,62502,0,0
+444,Sweden,1,2,Costa Rica, ,30223,1,0
+445,Korea Republic,0,1,Uruguay, ,29039,0,0
+446,Belgium,1,2,Spain, ,35950,1,2
+447,"rn"">Republic of Ireland",1,1,Netherlands, ,33288,0,1
+448,England,1,0,Egypt, ,34959,0,0
+449,Cameroon,2,1,Colombia,Cameroon win after extra time ,50026,0,0
+450,Czechoslovakia,4,1,Costa Rica, ,47673,1,0
+451,Brazil,0,1,Argentina, ,61381,0,0
+452,Germany FR,2,1,Netherlands, ,74559,0,0
+453,"rn"">Republic of Ireland",0,0,Romania,Republic of Ireland win on penalties (5 - 4) ,31818,0,0
+454,Italy,2,0,Uruguay, ,73303,0,0
+455,Spain,1,2,Yugoslavia,Yugoslavia win after extra time ,35500,0,0
+456,England,1,0,Belgium,England win after extra time ,34520,0,0
+457,Yugoslavia,0,0,Argentina, win on penalties (2 - 3) ,38971,0,0
+458,Italy,1,0,"rn"">Republic of Ireland", ,73303,1,0
+459,Germany FR,1,0,Czechoslovakia, ,73347,1,0
+460,England,3,2,Cameroon,England win after extra time ,55205,0,0
+461,Italy,1,1,Argentina, win on penalties (3 - 4) ,59978,0,0
+462,Germany FR,1,1,England, win on penalties (4 - 3) ,62628,0,0
+463,Italy,2,1,England, ,51426,0,0
+464,Germany FR,1,0,Argentina, ,73603,0,0
+465,Spain,2,2,Korea Republic, ,56247,0,0
+466,Germany,1,0,Bolivia, ,63117,0,0
+467,USA,1,1,Switzerland, ,73425,1,1
+468,Italy,0,1,"rn"">Republic of Ireland", ,75338,0,1
+469,Colombia,1,3,Romania, ,91856,1,2
+470,Belgium,1,0,Morocco, ,61219,1,0
+471,Norway,1,0,Mexico, ,52395,0,0
+472,Cameroon,2,2,Sweden, ,93194,1,1
+473,Netherlands,2,1,Saudi Arabia, ,50535,0,1
+474,Brazil,2,0,Russia, ,81061,1,0
+475,Argentina,4,0,Greece, ,54456,2,0
+476,Nigeria,3,0,Bulgaria, ,44132,2,0
+477,Germany,1,1,Spain, ,63113,0,1
+478,Romania,1,4,Switzerland, ,61428,1,1
+479,USA,2,1,Colombia, ,93869,1,0
+480,Italy,1,0,Norway, ,74624,0,0
+481,Korea Republic,0,0,Bolivia, ,54453,0,0
+482,Mexico,2,1,"rn"">Republic of Ireland", ,60790,1,0
+483,Sweden,3,1,Russia, ,71528,1,1
+484,Brazil,3,0,Cameroon, ,83401,1,0
+485,Belgium,1,0,Netherlands, ,62387,0,0
+486,Saudi Arabia,2,1,Morocco, ,76322,2,1
+487,Argentina,2,1,Nigeria, ,54453,2,1
+488,Bulgaria,4,0,Greece, ,63160,1,0
+489,USA,0,1,Romania, ,93869,0,1
+490,Switzerland,0,2,Colombia, ,83401,0,1
+491,Germany,3,2,Korea Republic, ,63998,3,0
+492,Bolivia,1,3,Spain, ,63089,0,1
+493,"rn"">Republic of Ireland",0,0,Norway, ,72404,0,0
+494,Brazil,1,1,Sweden, ,77217,0,1
+495,Italy,1,1,Mexico, ,52535,0,0
+496,Russia,6,1,Cameroon, ,74914,3,0
+497,Morocco,1,2,Netherlands, ,60578,0,1
+498,Belgium,0,1,Saudi Arabia, ,52959,0,1
+499,Greece,0,2,Nigeria, ,53001,0,1
+500,Argentina,0,2,Bulgaria, ,63998,0,0
+501,Germany,3,2,Belgium, ,60246,3,1
+502,Spain,3,0,Switzerland, ,53121,1,0
+503,Saudi Arabia,1,3,Sweden, ,60277,0,1
+504,Romania,3,2,Argentina, ,90469,2,1
+505,Netherlands,2,0,"rn"">Republic of Ireland", ,61355,2,0
+506,Brazil,1,0,USA, ,84147,0,0
+507,Nigeria,1,2,Italy,Italy win after extra time ,54367,0,0
+508,Mexico,1,1,Bulgaria,Bulgaria win on penalties (1 - 3) ,71030,0,0
+509,Italy,2,1,Spain, ,53400,1,0
+510,Netherlands,2,3,Brazil, ,63500,0,0
+511,Bulgaria,2,1,Germany, ,72000,0,0
+512,Romania,2,2,Sweden,Sweden win on penalties (4 - 5) ,83500,0,0
+513,Bulgaria,1,2,Italy, ,74110,1,2
+514,Sweden,0,1,Brazil, ,91856,0,0
+515,Sweden,4,0,Bulgaria, ,91500,4,0
+516,Brazil,0,0,Italy,Brazil win on penalties (3 - 2) ,94194,0,0
+517,Brazil,2,1,Scotland, ,80000,1,1
+518,Morocco,2,2,Norway, ,29800,1,1
+519,Italy,2,2,Chile, ,31800,1,1
+520,Cameroon,1,1,Austria, ,33500,0,0
+521,Paraguay,0,0,Bulgaria, ,29800,0,0
+522,Saudi Arabia,0,1,Denmark, ,38100,0,0
+523,France,3,0,South Africa, ,55000,1,0
+524,Spain,2,3,Nigeria, ,35500,1,1
+525,Korea Republic,1,3,Mexico, ,39100,1,0
+526,Netherlands,0,0,Belgium, ,77000,0,0
+527,Argentina,1,0,Japan, ,33500,1,0
+528,Yugoslavia,1,0,Iran, ,30600,0,0
+529,Jamaica,1,3,Croatia, ,38100,1,1
+530,England,2,0,Tunisia, ,55000,1,0
+531,Romania,1,0,Colombia, ,39100,1,0
+532,Germany,2,0,USA, ,45500,1,0
+533,Scotland,1,1,Norway, ,31800,0,0
+534,Brazil,3,0,Morocco, ,35500,2,0
+535,Chile,1,1,Austria, ,30600,0,0
+536,Italy,3,0,Cameroon, ,29800,1,0
+537,South Africa,1,1,Denmark, ,33500,0,1
+538,France,4,0,Saudi Arabia, ,80000,1,0
+539,Nigeria,1,0,Bulgaria, ,45500,1,0
+540,Spain,0,0,Paraguay, ,30600,0,0
+541,Japan,0,1,Croatia, ,35500,0,0
+542,Belgium,2,2,Mexico, ,31800,1,0
+543,Netherlands,5,0,Korea Republic, ,55000,2,0
+544,Germany,2,2,Yugoslavia, ,38100,0,1
+545,Argentina,5,0,Jamaica, ,45500,1,0
+546,USA,1,2,Iran, ,39100,0,1
+547,Colombia,1,0,Tunisia, ,29800,0,0
+548,Romania,2,1,England, ,33500,0,0
+549,Italy,2,1,Austria, ,80000,0,0
+550,Chile,1,1,Cameroon, ,35500,1,0
+551,Scotland,0,3,Morocco, ,30600,0,1
+552,Brazil,1,2,Norway, ,55000,0,0
+553,France,2,1,Denmark, ,39100,1,1
+554,South Africa,2,2,Saudi Arabia, ,31800,1,1
+555,Spain,6,1,Bulgaria, ,38100,2,0
+556,Nigeria,1,3,Paraguay, ,33500,1,1
+557,Belgium,1,1,Korea Republic, ,45500,1,0
+558,Netherlands,2,2,Mexico, ,30600,2,0
+559,Germany,2,0,Iran, ,29800,0,0
+560,USA,0,1,Yugoslavia, ,35500,0,1
+561,Japan,1,2,Jamaica, ,39100,0,1
+562,Argentina,1,0,Croatia, ,31800,1,0
+563,Romania,1,1,Tunisia, ,77000,0,1
+564,Colombia,0,2,England, ,38100,0,2
+565,Italy,1,0,Norway, ,55000,1,0
+566,Brazil,4,1,Chile, ,45500,3,0
+567,France,1,0,Paraguay,France win after extra time ,31800,0,0
+568,Nigeria,1,4,Denmark, ,77000,0,2
+569,Germany,2,1,Mexico, ,29800,0,0
+570,Netherlands,2,1,Yugoslavia, ,33500,1,0
+571,Romania,0,1,Croatia, ,31800,0,1
+572,Argentina,2,2,England,Argentina win on penalties (4 - 3) ,30600,0,0
+573,Italy,0,0,France,France win on penalties (3 - 4) ,77000,0,0
+574,Brazil,3,2,Denmark, ,35500,2,1
+575,Netherlands,2,1,Argentina, ,55000,1,1
+576,Germany,0,3,Croatia, ,39100,0,1
+577,Brazil,1,1,Netherlands,Brazil win on penalties (4 - 2) ,54000,0,0
+578,France,2,1,Croatia, ,76000,0,0
+579,Netherlands,1,2,Croatia, ,45500,1,2
+580,Brazil,0,3,France, ,80000,0,2
+581,France,0,1,Senegal, ,62561,0,1
+582,Uruguay,1,2,Denmark, ,30157,0,1
+583,"rn"">Republic of Ireland",1,1,Cameroon, ,33679,0,1
+584,Germany,8,0,Saudi Arabia, ,32218,4,0
+585,Argentina,1,0,Nigeria, ,34050,0,0
+586,Paraguay,2,2,South Africa, ,25186,1,0
+587,England,1,1,Sweden, ,52721,1,0
+588,Spain,3,1,Slovenia, ,28598,1,0
+589,Brazil,2,1,Turkey, ,33842,0,1
+590,Italy,2,0,Ecuador, ,31081,2,0
+591,Croatia,0,1,Mexico, ,32239,0,0
+592,China PR,0,2,Costa Rica, ,27217,0,0
+593,Japan,2,2,Belgium, ,55256,0,0
+594,Korea Republic,2,0,Poland, ,48760,1,0
+595,Russia,2,0,Tunisia, ,30957,0,0
+596,USA,3,2,Portugal, ,37306,3,1
+597,Germany,1,1,"rn"">Republic of Ireland", ,35854,1,0
+598,Denmark,1,1,Senegal, ,43500,1,0
+599,Cameroon,1,0,Saudi Arabia, ,52328,0,0
+600,France,0,0,Uruguay, ,38289,0,0
+601,Sweden,2,1,Nigeria, ,36194,1,1
+602,Argentina,0,1,England, ,35927,0,1
+603,Spain,3,1,Paraguay, ,24000,0,1
+604,South Africa,1,0,Slovenia, ,47226,1,0
+605,Brazil,4,0,China PR, ,36750,3,0
+606,Italy,1,2,Croatia, ,36472,0,0
+607,Costa Rica,1,1,Turkey, ,42299,0,0
+608,Japan,1,0,Russia, ,66108,0,0
+609,Mexico,2,1,Ecuador, ,45610,1,1
+610,Korea Republic,1,1,USA, ,60778,0,1
+611,Portugal,4,0,Poland, ,31000,1,0
+612,Tunisia,1,1,Belgium, ,39700,1,1
+613,Denmark,2,0,France, ,48100,1,0
+614,Senegal,3,3,Uruguay, ,33681,3,0
+615,Saudi Arabia,0,3,"rn"">Republic of Ireland", ,65320,0,1
+616,Cameroon,0,2,Germany, ,47085,0,0
+617,Sweden,1,1,Argentina, ,45777,0,0
+618,Nigeria,0,0,England, ,44864,0,0
+619,Slovenia,1,3,Paraguay, ,30176,1,0
+620,South Africa,2,3,Spain, ,31024,1,2
+621,Costa Rica,2,5,Brazil, ,38524,1,3
+622,Turkey,3,0,China PR, ,43605,2,0
+623,Ecuador,1,0,Croatia, ,65862,0,0
+624,Mexico,1,1,Italy, ,39291,1,0
+625,Tunisia,0,2,Japan, ,45213,0,0
+626,Portugal,0,1,Korea Republic, ,50239,0,0
+627,Poland,3,1,USA, ,26482,2,0
+628,Belgium,3,2,Russia, ,46640,1,0
+629,Denmark,0,3,England, ,40582,0,3
+630,Germany,1,0,Paraguay, ,25176,0,0
+631,Spain,1,1,"rn"">Republic of Ireland",Spain win on penalties (3 - 2) ,38926,0,0
+632,Sweden,1,2,Senegal,Win on Golden Goal ,39747,0,0
+633,Brazil,2,0,Belgium, ,40440,0,0
+634,Mexico,0,2,USA, ,36380,0,1
+635,Japan,0,1,Turkey, ,45666,0,1
+636,Korea Republic,2,1,Italy,Win on Golden Goal ,38588,0,0
+637,England,1,2,Brazil, ,47436,1,1
+638,Germany,1,0,USA, ,37337,1,0
+639,Senegal,0,1,Turkey,Win on Golden Goal ,44233,0,0
+640,Spain,0,0,Korea Republic,Korea Republic win on penalties (3 - 5) ,42114,0,0
+641,Germany,1,0,Korea Republic, ,65256,0,0
+642,Brazil,1,0,Turkey, ,61058,0,0
+643,Korea Republic,2,3,Turkey, ,63483,1,3
+644,Germany,0,2,Brazil, ,69029,0,0
+645,Germany,4,2,Costa Rica, ,66000,2,1
+646,Poland,0,2,Ecuador, ,52000,0,1
+647,England,1,0,Paraguay, ,48000,1,0
+648,"rn"">Trinidad and Tobago",0,0,Sweden, ,62959,0,0
+649,Argentina,2,1,C�te d'Ivoire, ,49480,2,0
+650,"rn"">Serbia and Montenegro",0,1,Netherlands, ,43000,0,1
+651,Mexico,3,1,Iran, ,41000,1,1
+652,Angola,0,1,Portugal, ,45000,0,1
+653,Australia,3,1,Japan, ,46000,0,1
+654,USA,0,3,Czech Republic, ,52000,0,2
+655,Italy,2,0,Ghana, ,43000,1,0
+656,Korea Republic,2,1,Togo, ,48000,0,1
+657,France,0,0,Switzerland, ,52000,0,0
+658,Brazil,1,0,Croatia, ,72000,1,0
+659,Spain,4,0,Ukraine, ,43000,2,0
+660,Tunisia,2,2,Saudi Arabia, ,66000,1,0
+661,Germany,1,0,Poland, ,65000,0,0
+662,Ecuador,3,0,Costa Rica, ,50000,1,0
+663,England,2,0,"rn"">Trinidad and Tobago", ,41000,0,0
+664,Sweden,1,0,Paraguay, ,72000,0,0
+665,Argentina,6,0,"rn"">Serbia and Montenegro", ,52000,3,0
+666,Netherlands,2,1,C�te d'Ivoire, ,52000,2,1
+667,Mexico,0,0,Angola, ,43000,0,0
+668,Portugal,2,0,IR Iran, ,48000,0,0
+669,Czech Republic,0,2,Ghana, ,45000,0,1
+670,Italy,1,1,USA, ,46000,1,1
+671,Japan,0,0,Croatia, ,41000,0,0
+672,Brazil,2,0,Australia, ,66000,0,0
+673,France,1,1,Korea Republic, ,43000,1,0
+674,Togo,0,2,Switzerland, ,65000,0,1
+675,Saudi Arabia,0,4,Ukraine, ,50000,0,2
+676,Spain,3,1,Tunisia, ,52000,0,1
+677,Ecuador,0,3,Germany, ,72000,0,2
+678,Costa Rica,1,2,Poland, ,43000,1,1
+679,Sweden,2,2,England, ,45000,0,1
+680,Paraguay,2,0,"rn"">Trinidad and Tobago", ,46000,1,0
+681,Iran,1,1,Angola, ,38000,0,0
+682,Portugal,2,1,Mexico, ,52000,2,1
+683,Netherlands,0,0,Argentina, ,48000,0,0
+684,C�te d'Ivoire,3,2,"rn"">Serbia and Montenegro", ,66000,1,2
+685,Czech Republic,0,2,Italy, ,50000,0,1
+686,Ghana,2,1,USA, ,41000,2,1
+687,Japan,1,4,Brazil, ,65000,1,1
+688,Croatia,2,2,Australia, ,52000,1,1
+689,Ukraine,1,0,Tunisia, ,72000,0,0
+690,Saudi Arabia,0,1,Spain, ,46000,0,1
+691,Togo,0,2,France, ,45000,0,0
+692,Switzerland,2,0,Korea Republic, ,43000,1,0
+693,Germany,2,0,Sweden, ,66000,2,0
+694,Argentina,2,1,Mexico,Argentina win after extra time ,43000,0,0
+695,England,1,0,Ecuador, ,52000,0,0
+696,Portugal,1,0,Netherlands, ,41000,1,0
+697,Italy,1,0,Australia, ,46000,0,0
+698,Switzerland,0,0,Ukraine,Ukraine win on penalties (0 - 3) ,45000,0,0
+699,Brazil,3,0,Ghana, ,65000,2,0
+700,Spain,1,3,France, ,43000,1,1
+701,Germany,1,1,Argentina,Germany win on penalties (4 - 2) ,72000,0,0
+702,Italy,3,0,Ukraine, ,50000,1,0
+703,England,0,0,Portugal,Portugal win on penalties (1 - 3) ,52000,0,0
+704,Brazil,0,1,France, ,48000,0,0
+705,Germany,0,2,Italy,Italy win after extra time ,65000,0,0
+706,Portugal,0,1,France, ,66000,0,1
+707,Germany,3,1,Portugal, ,52000,0,0
+708,Italy,1,1,France,Italy win on penalties (5 - 3) ,69000,0,0
+709,South Africa,1,1,Mexico, ,84490,0,0
+710,Uruguay,0,0,France, ,64100,0,0
+711,Korea Republic,2,0,Greece, ,31513,1,0
+712,Argentina,1,0,Nigeria, ,55686,1,0
+713,England,1,1,USA, ,38646,1,1
+714,Algeria,0,1,Slovenia, ,30325,0,0
+715,Serbia,0,1,Ghana, ,38833,0,0
+716,Germany,4,0,Australia, ,62660,2,0
+717,Netherlands,2,0,Denmark, ,83465,0,0
+718,Japan,1,0,Cameroon, ,30620,1,0
+719,Italy,1,1,Paraguay, ,62869,0,1
+720,New Zealand,1,1,Slovakia, ,23871,0,0
+721,C�te d'Ivoire,0,0,Portugal, ,37034,0,0
+722,Brazil,2,1,Korea DPR, ,54331,0,0
+723,Honduras,0,1,Chile, ,32664,0,1
+724,Spain,0,1,Switzerland, ,62453,0,0
+725,South Africa,0,3,Uruguay, ,42658,0,1
+726,Argentina,4,1,Korea Republic, ,82174,2,1
+727,Greece,2,1,Nigeria, ,31593,1,1
+728,France,0,2,Mexico, ,35370,0,0
+729,Germany,0,1,Serbia, ,38294,0,1
+730,Slovenia,2,2,USA, ,45573,2,0
+731,England,0,0,Algeria, ,64100,0,0
+732,Netherlands,1,0,Japan, ,62010,0,0
+733,Ghana,1,1,Australia, ,34812,1,1
+734,Cameroon,1,2,Denmark, ,38074,1,1
+735,Slovakia,0,2,Paraguay, ,26643,0,1
+736,Italy,1,1,New Zealand, ,38229,1,1
+737,Brazil,3,1,C�te d'Ivoire, ,84455,1,0
+738,Portugal,7,0,Korea DPR, ,63644,1,0
+739,Chile,1,0,Switzerland, ,34872,0,0
+740,Spain,2,0,Honduras, ,54386,1,0
+741,Mexico,0,1,Uruguay, ,33425,0,1
+742,France,1,2,South Africa, ,39415,0,2
+743,Nigeria,2,2,Korea Republic, ,61874,1,1
+744,Greece,0,2,Argentina, ,38891,0,0
+745,Slovenia,0,1,England, ,36893,0,1
+746,USA,1,0,Algeria, ,35827,0,0
+747,Ghana,0,1,Germany, ,83391,0,0
+748,Australia,2,1,Serbia, ,37836,0,0
+749,Slovakia,3,2,Italy, ,53412,1,0
+750,Paraguay,0,0,New Zealand, ,34850,0,0
+751,Denmark,1,3,Japan, ,27967,0,2
+752,Cameroon,1,2,Netherlands, ,63093,0,1
+753,Portugal,0,0,Brazil, ,62712,0,0
+754,Korea DPR,0,3,C�te d'Ivoire, ,34763,0,2
+755,Chile,1,2,Spain, ,41958,0,2
+756,Switzerland,0,0,Honduras, ,28042,0,0
+757,Uruguay,2,1,Korea Republic, ,30597,1,0
+758,USA,1,2,Ghana,Ghana win after extra time ,34976,0,0
+759,Germany,4,1,England, ,40510,2,1
+760,Argentina,3,1,Mexico, ,84377,2,0
+761,Netherlands,2,1,Slovakia, ,61962,1,0
+762,Brazil,3,0,Chile, ,54096,2,0
+763,Paraguay,0,0,Japan,Paraguay win on penalties (5 - 3) ,36742,0,0
+764,Spain,1,0,Portugal, ,62955,0,0
+765,Netherlands,2,1,Brazil, ,40186,0,1
+766,Uruguay,1,1,Ghana,Uruguay win on penalties (4 - 2) ,84017,0,0
+767,Argentina,0,4,Germany, ,64100,0,1
+768,Paraguay,0,1,Spain, ,55359,0,0
+769,Uruguay,2,3,Netherlands, ,62479,1,1
+770,Germany,0,1,Spain, ,60960,0,0
+771,Uruguay,2,3,Germany, ,36254,1,1
+772,Netherlands,0,1,Spain,Spain win after extra time ,84490,0,0
+773,Brazil,3,1,Croatia, ,62103,1,1
+774,Mexico,1,0,Cameroon, ,39216,0,0
+775,Spain,1,5,Netherlands, ,48173,1,1
+776,Chile,3,1,Australia, ,40275,2,1
+777,Colombia,3,0,Greece, ,57174,1,0
+778,Uruguay,1,3,Costa Rica, ,58679,1,0
+779,England,1,2,Italy, ,39800,1,1
+780,C�te d'Ivoire,2,1,Japan, ,40267,0,1
+781,Switzerland,2,1,Ecuador, ,68351,0,1
+782,France,3,0,Honduras, ,43012,1,0
+783,Argentina,2,1,"rn"">Bosnia and Herzegovina", ,74738,1,0
+784,Germany,4,0,Portugal, ,51081,3,0
+785,IR Iran,0,0,Nigeria, ,39081,0,0
+786,Ghana,1,2,USA, ,39760,0,1
+787,Belgium,2,1,Algeria, ,56800,0,1
+788,Brazil,0,0,Mexico, ,60342,0,0
+789,Russia,1,1,Korea Republic, ,37603,0,0
+790,Australia,2,3,Netherlands, ,42877,1,1
+791,Spain,0,2,Chile, ,74101,0,2
+792,Cameroon,0,4,Croatia, ,39982,0,1
+793,Colombia,2,1,C�te d'Ivoire, ,68748,0,0
+794,Uruguay,2,1,England, ,62575,1,0
+795,Japan,0,0,Greece, ,39485,0,0
+796,Italy,0,1,Costa Rica, ,40285,0,1
+797,Switzerland,2,5,France, ,51003,0,3
+798,Honduras,1,2,Ecuador, ,39224,1,1
+799,Argentina,1,0,IR Iran, ,57698,0,0
+800,Germany,2,2,Ghana, ,59621,0,0
+801,Nigeria,1,0,"rn"">Bosnia and Herzegovina", ,40499,1,0
+802,Belgium,1,0,Russia, ,73819,0,0
+803,Korea Republic,2,4,Algeria, ,42732,0,3
+804,USA,2,2,Portugal, ,40123,0,1
+805,Australia,0,3,Spain, ,39375,0,1
+806,Netherlands,2,0,Chile, ,62996,0,0
+807,Cameroon,1,4,Brazil, ,69112,1,2
+808,Croatia,1,3,Mexico, ,41212,0,0
+809,Italy,0,1,Uruguay, ,39706,0,0
+810,Costa Rica,0,0,England, ,57823,0,0
+811,Japan,1,4,Colombia, ,40340,1,1
+812,Greece,2,1,C�te d'Ivoire, ,59095,1,0
+813,Nigeria,2,3,Argentina, ,43285,1,2
+814,"rn"">Bosnia and Herzegovina",3,1,IR Iran, ,48011,1,0
+815,Honduras,0,3,Switzerland, ,40322,0,2
+816,Ecuador,0,0,France, ,73749,0,0
+817,USA,0,1,Germany, ,41876,0,0
+818,Portugal,2,1,Ghana, ,67540,1,0
+819,Korea Republic,0,1,Belgium, ,61397,0,0
+820,Algeria,1,1,Russia, ,39311,0,1
+821,Brazil,1,1,Chile,Brazil win on penalties (3 - 2) ,57714,0,0
+822,Colombia,2,0,Uruguay, ,73804,1,0
+823,France,2,0,Nigeria, ,67882,0,0
+824,Germany,2,1,Algeria,Germany win after extra time ,,0,0
+825,Brazil,2,1,Colombia, ,60342,1,0
+826,France,0,1,Germany, ,74240,0,1
+827,Brazil,1,7,Germany, ,58141,0,5
+828,Brazil,0,3,Netherlands, ,68034,0,2
+829,Germany,1,0,Argentina,Germany win after extra time ,74738,0,0
+830,Netherlands,0,0,Argentina,Argentina win on penalties (2 - 4) ,63267,0,0
+831,Netherlands,0,0,Costa Rica,Netherlands win on penalties (4 - 3) ,51179,0,0
+832,Argentina,1,0,Belgium, ,68551,1,0
+833,Netherlands,2,1,Mexico, ,58817,0,0
+834,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3) ,41242,0,0
+835,Argentina,1,0,Switzerland,Argentina win after extra time ,63255,0,0
+836,Belgium,2,1,USA,Belgium win after extra time ,51227,0,0

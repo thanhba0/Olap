@@ -1,0 +1,110 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>SSAS</Database>
+    <Server>localhost</Server>
+    <ConnectionString>Data Source=localhost;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>0YlWOFRQn2Id55dVv62dp7o2t3Q=09-Nov-19 2:23:54 AM09-Nov-19 2:23:54 AM</TimeStamp>
+        <ID>
+          <String>World Cup</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>doXCvIpFsGF9fQzUzSnWwSMm+b0=09-Nov-19 2:31:39 AM09-Nov-19 2:31:39 AM</TimeStamp>
+        <ID>
+          <String>World Cup</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>hmj9hWXQFHO+VxzSOpm+HugCVg4=09-Nov-19 2:33:33 AM09-Nov-19 2:31:56 AM</TimeStamp>
+        <ID>
+          <String>Dim ID Referee</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>kxzmmmP+odJEaK7XykGm9xiybSs=09-Nov-19 2:33:33 AM09-Nov-19 2:31:56 AM</TimeStamp>
+        <ID>
+          <String>Dim Datetime</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>gcAPAKpa6NGctpXL8WEXi3mezko=09-Nov-19 2:33:33 AM09-Nov-19 2:31:56 AM</TimeStamp>
+        <ID>
+          <String>Dim ID Result</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>/8Hz6E5unpCQkd9tgWU5LLtRjt8=09-Nov-19 2:33:33 AM09-Nov-19 2:31:56 AM</TimeStamp>
+        <ID>
+          <String>Dim ID Sta City</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>mNK9GRLj4ANjLTAapAUSz0rQc3E=09-Nov-19 2:33:33 AM09-Nov-19 2:31:56 AM</TimeStamp>
+        <ID>
+          <String>Dim ID Stage Round</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>m23ShUokxbwGL4YGEPuM3KRFROI=09-Nov-19 2:33:33 AM09-Nov-19 2:31:56 AM</TimeStamp>
+        <ID>
+          <String>Dim ID Matches</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>50DWZfUVyyjSJwE5hlQYFPq05lg=09-Nov-19 2:33:33 AM09-Nov-19 2:31:56 AM</TimeStamp>
+        <ID>
+          <String>Fact</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>pv4CmMi9scSFV9Qyy6B+z+iUkbE=09-Nov-19 2:33:33 AM09-Nov-19 2:31:56 AMcDvBQwWT3roc0w6yuZxCiJqG0XU=09-Nov-19 2:31:57 AM09-Nov-19 2:31:56 AM</TimeStamp>
+        <ID>
+          <String>World Cup</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.MiningStructure</Type>
+        <TimeStamp>AbLpt2/v0ASAidbZ/YCNErPukGk=09-Nov-19 5:50:34 AM09-Nov-19 5:50:34 AM</TimeStamp>
+        <ID>
+          <String>Fact</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>3m4uiF0oKNISNQ348QX+CRACRZ4=09-Nov-19 2:22:32 AM09-Nov-19 2:22:32 AM</TimeStamp>
+      <ID>
+        <String>SSAS</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2019-11-08T22:50:45.633333Z</LastDeployed>
+</DeploymentSnapshot>

@@ -1,0 +1,17 @@
+------Hình Mining_1_1 và Hình Mining_1_2--------
+-Background:Result Home: 1(Chiến thắng)
+Nếu như Result Half Time Home(tỉ số hiệp 1 của đội mặc áo sân nhà) là 1(chiến thắng) thì kết quả toàn trận trong hai hiệp của đội mặc áo sân nhà  sẽ là 1(chiến thắng).
+Nếu như Result Half Time Home(tỉ số hiệp 1 của đội mặc áo sân nhà) là 2(hòa) thì kết quả toàn trận trong hai hiệp của đội mặc áo sân nhà sẽ là 1(chiến thắng)-có tỷ lệ cao là thắng.
+
+------Hình Mining_2--------
+-Background:Result Home: 2(Hòa)
+Nếu như Result Half Time Home(tỉ số hiệp 1 của đội mặc áo sân nhà) là 2(hòa) thì kết quả toàn trận trong hai hiệp của đội mặc áo sân nhà sẽ là 2(hòa).
+
+------Hình Mining_3--------
+-Background:Result Home: 3(Thua)
+Nếu như Result Half Time Home(tỉ số hiệp 1 của đội mặc áo sân nhà) là 3(thua) thì kết quả toàn trận trong hai hiệp của đội mặc áo sân nhà sẽ là 3(thua).
+
+=> Đội mặc áo sân nhà có tỉ lệ thắng cao nếu như trong hiệp 1 hòa hoặc thắng.
+=> Đội mặc áo sân nhà có tỉ lệ hòa cao nếu như trong hiệp 1 hòa.
+=> Đội mặc áo sân nhà có tỉ lệ thua cao nếu như trong hiệp 1 thua.
+

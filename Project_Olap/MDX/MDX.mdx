@@ -1,0 +1,69 @@
+﻿--1.Thống kê số lượng trận đấu theo từng năm
+ SELECT NON EMPTY { [Measures].[Fact Count] } ON COLUMNS,
+ NON EMPTY { ([Dim Datetime].[Year].children ) } ON ROWS
+ FROM [World Cup]
+
+--3.Thống kê 5 trong tài có số lượng trận đấu nhiều nhất trong năm 2014
+ SELECT NON EMPTY { [Measures].[Fact Count] } ON COLUMNS,
+ NON EMPTY (TOPCOUNT([Dim ID Referee].[Referee].CHILDREN,5,[Measures]. [Fact Count])) ON ROWS
+ FROM [World Cup]
+ WHERE [Dim Datetime].[Year].&[2014]
+
+ --2.Thống kê số lượng trận đấu theo diễn ra tại sân FIFA World Cup Stadium theo thời gian bắt đầu trận đấu theo năm 2006---
+ SELECT NON EMPTY { [Measures].[Fact Count] } ON COLUMNS,
+  NON EMPTY { ([Dim Datetime].[Year].[Year].&[2006] 
+  ,[Dim ID Sta City].[Stadium].[Stadium].&["FIFA World Cup Stadium] 
+  ,[Dim Datetime].[Time].[Time].ALLMEMBERS ) } ON ROWS 
+  FROM [World Cup]
+  //cách 2
+  SELECT NON EMPTY { [Measures].[Fact Count] } ON COLUMNS,
+  NON EMPTY { (
+    [Dim Datetime].[Time].[Time].ALLMEMBERS ) } ON ROWS 
+  FROM [World Cup]
+  WHERE ([Dim Datetime].[Year].[Year].&[2006],[Dim ID Sta City].[Stadium].[Stadium].&["FIFA World Cup Stadium])
+
+--4.số lượng trận có lượng khán giả theo từng sân vận động trong năm đầu tiên diễn ra World Cup
+   SELECT NON EMPTY { [Measures].[Fact Count] } ON COLUMNS, 
+NON EMPTY { ([Dim ID Matches].[Attendance].[Attendance].ALLMEMBERS *
+ [Dim ID Sta City].[Stadium].[Stadium].ALLMEMBERS * 
+ [Dim Datetime].[Year].[Year].&[1930] ) } ON ROWS 
+ FROM [World Cup]
+
+ --5.Thống kê số trận thắng phải giải quyết sau hiệp chính của từng đồi theo từng năm
+ SELECT NON EMPTY { [Measures].[Fact Count] } ON COLUMNS, 
+ NON EMPTY { ([Dim Datetime].[Year].[Year].ALLMEMBERS * 
+ (-{[Dim ID Matches].[Win Conditions].[Win Conditions].&[]} )) } ON ROWS 
+ FROM [World Cup]
+
+ --6.THống kê số trận của các vòng theo từng thành phố
+  SELECT NON EMPTY { [Measures].[Fact Count] } ON COLUMNS, 
+ NON EMPTY { ([Dim ID Sta City].[City].[City].ALLMEMBERS * 
+ [Dim ID Stage Round].[Round ID].[Round ID].ALLMEMBERS ) } ON ROWS
+ FROM [World Cup]
+--7-Thống kê số lượng trận đấu brazil được mặc áo sân nhà theo từng năm
+ SELECT NON EMPTY { [Measures].[Fact Count] } ON COLUMNS, 
+ NON EMPTY { ([Dim Datetime].[Year].[Year].ALLMEMBERS ) } ON ROWS 
+ FROM [World Cup]
+ WHERE ( { [Dim ID Matches].[Home Team Name].&[Brazil] } )
+
+ --8-Thống kê các trận có  tỉ số có thể có theo từng trận đấu
+ SELECT NON EMPTY { [Measures].[Fact Count] } ON COLUMNS, 
+ NON EMPTY { ([Dim ID Matches].[Home Team Goals].[Home Team Goals].ALLMEMBERS * 
+ [Dim ID Matches].[Away Team Goals].[Away Team Goals].ALLMEMBERS ) } ON ROWS 
+ FROM [World Cup]
+
+--9-THống kê số trận của từng trọng tài vào năm 2014 theo từng vòng
+ SELECT NON EMPTY { [Measures].[Fact Count] } ON COLUMNS, 
+ NON EMPTY { ([Dim ID Referee].[ID Referee].[ID Referee].ALLMEMBERS * 
+ [Dim ID Stage Round].[Round ID].[Round ID].ALLMEMBERS ) } ON ROWS 
+ FROM [World Cup]
+ WHERE( { [Dim Datetime].[Year].&[2014] }  );
+
+ --10-Thống kê các trận kết thúc với tỉ số 0-0 theo từng năm
+
+ SELECT NON EMPTY { [Measures].[Fact Count] } ON COLUMNS, 
+ NON EMPTY { ([Dim Datetime].[Year].[Year].ALLMEMBERS) } ON ROWS  
+ FROM [World Cup]
+ WHERE ( [Dim ID Matches].[Home Team Goals].&[0], 
+			[Dim ID Matches].[Away Team Goals].&[0]  ) ;
+
